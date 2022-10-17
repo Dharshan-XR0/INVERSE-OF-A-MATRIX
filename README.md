@@ -18,6 +18,7 @@ Using the np.linalg.inv() we can find the inverse of a matrix.
 
 ## Program:
 ```python
+
 #Program to find the inverse of a matrix.
 #Developed by: DHARSHAN V
 #RegisterNumber:22003103
@@ -25,8 +26,8 @@ import numpy as np
 A = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 rank = np.linalg.inv(A)
 print(rank)
-```
 
+```
 
 
 ## Output:
