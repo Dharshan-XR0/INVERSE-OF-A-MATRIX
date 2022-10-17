@@ -26,6 +26,8 @@ A = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 rank = np.linalg.inv(A)
 print(rank)
 ```
+
+
 ## Output:
 ![Ex3CR](https://user-images.githubusercontent.com/113497491/191960339-231970a9-51d5-4b06-a732-59b8ba2be28d.png)
 
